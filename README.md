@@ -12,12 +12,13 @@
 
 <p>
   <em>
-    Tenho 21 anos, moro em Anápolis/GO e estou me especializando em desenvolvimento web.
+    Tenho 22 anos, moro em Anápolis/GO e estou me especializando em desenvolvimento web.
   </em>
 </p>
 
-- 🌱 Atualmente tenho praticado desenvolvimento em JavaScript, Node.js e React
-- 🚀 Cursando Ciências da Computação na Faculdade Anhanguera de Anápolis
+- 🌱 Atuando com desenvolvimento em JavaScript, Node.js e React
+- 🎓 Bacharel em Ciências da Computação pela Faculdade Anhanguera de Anápolis
+- 🚀 Software Engineer na Stone Co. 
 - 📫 Meu email: ghguga123@gmail.com
 
 ### 📊 Meus próximos passos:
