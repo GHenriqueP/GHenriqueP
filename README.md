@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Olá, meu nome é Gustavo Henrique! ✨
+  Olá, meu nome é Gustavo Henrique! 
 </h1>
 
 <p align='center'>
-  Desenvolvedor Web Full Stack
+  Software Engineer - Full Stack
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GHenriqueP" alt="GHenriqueP" /> </p>
 
@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 22 anos, moro em Anápolis/GO e estou me especializando em desenvolvimento web.
+    Tenho 22 anos, sou de Anápolis/GO e sigo carreira como engenheiro de software.
   </em>
 </p>
 
