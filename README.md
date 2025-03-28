@@ -32,11 +32,6 @@
 | ------------------- | ------------------- |
 |  [![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mysql,bootstrap,docker)](https://skillicons.dev) |  [![Skills to learn](https://skillicons.dev/icons?i=react,figma,aws,azure,tailwind,nest)](https://skillicons.dev) |
 
-### 📈 Minhas Estatísticas
-
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![GHenrique github stats](https://github-readme-stats.vercel.app/api?username=GHenriqueP&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GHenriqueP&theme=great-gatsby&layout=compact) |
 
 💬 Entre em contato! :)
 
