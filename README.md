@@ -16,10 +16,10 @@
   </em>
 </p>
 
-- 🌱 Atuando com desenvolvimento em JavaScript, Node.js e React
-- 🎓 Bacharel em Ciências da Computação pela Faculdade Anhanguera de Anápolis
-- 🚀 Software Engineer na Stone Co. 
-- 📫 Meu email: ghguga123@gmail.com
+-  Atuando com desenvolvimento em JavaScript, Node.js e React
+-  Bacharel em Ciências da Computação pela Faculdade Anhanguera de Anápolis
+-  Software Engineer na Stone Co. 
+-  Meu email: ghguga123@gmail.com
 
 ### 📊 Meus próximos passos:
 
